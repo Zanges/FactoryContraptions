@@ -1,14 +1,16 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "FactoryContraptions",
+  "name": "Factory Contraptions",
+  "description": "A Mod to build Large scale Automation.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": [ "zanges",
+                  "hnsdieter"
+  ],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
